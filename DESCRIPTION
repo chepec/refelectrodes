@@ -1,0 +1,14 @@
+Package: refelectrodes
+Type: Package
+Title: Convert between reference electrode scales
+Version: 0.0.0.9000
+Author: Taha Ahmed
+Maintainer: Taha Ahmed <taha@chepec.se>
+Description: Convert potentials to and from some common electrochemical 
+    reference electrode scales as well as the absolute vacuum scale. 
+    The converter functions handle their temperature dependence too.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: knitr
+RoxygenNote: 6.1.1
